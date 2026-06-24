@@ -52,6 +52,13 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
+vcpkg_installed/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+.vs/
+
 # Temporary files
 *.tmp
 *.log
